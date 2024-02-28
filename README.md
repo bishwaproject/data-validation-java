@@ -1,4 +1,8 @@
-# Java JSON Processing and Validation Demo
+# Java Data Processing and Validation Demo
+**quick look**:
+
+
+![Alt Text](./datavalidationdemo.gif)
 
 This project showcases a Java application that handles JSON data, performs input validation, and utilizes logging for improved error tracking and debugging.
 
