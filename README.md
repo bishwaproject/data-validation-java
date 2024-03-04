@@ -4,6 +4,9 @@
 
 ![Alt Text](./datavalidationdemo.gif)
 
+![Screen Shot 2024-03-03 at 9 24 51 PM](https://github.com/bishwaproject/data-validation-java/assets/122746091/d4d41088-d5c1-45c2-909e-16b56708fb09)
+
+
 This project showcases a Java application that handles JSON data, performs input validation, and utilizes logging for improved error tracking and debugging.
 
 ## Introduction
